@@ -4,11 +4,11 @@
 
 ## Entering TorZon Securely
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion
 
-[<img src="/asset/console.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/asset/console.webp" width="200">](http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/asset/task.webp" alt="TorZon Tor Site" style="max-width: 100%;"></a>
+<a href="http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion"><img src="/asset/task.webp" alt="TorZon Tor Site" style="max-width: 100%;"></a>
 
 This platform serves as an educational resource. We do not endorse any illegal actions.
 
@@ -34,3 +34,5 @@ This platform serves as an educational resource. We do not endorse any illegal a
 ### Disclaimer:
 
 The information provided is solely for educational purposes.
+
+Update:  14 September Link is now operational and clickable
