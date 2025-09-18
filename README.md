@@ -35,4 +35,6 @@ This platform serves as an educational resource. We do not endorse any illegal a
 
 The information provided is solely for educational purposes.
 
-Update:  14 September Link is now operational and clickable
+
+
+Update:  18.09.2025 url is functioning properly
